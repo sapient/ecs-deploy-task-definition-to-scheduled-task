@@ -1,5 +1,5 @@
 {
-  "name": "ecs-deploy-task-definition-to-scheduled-task",
+  "name": "ag1-ecs-deploy-task-definition-to-scheduled-task",
   "version": "2.2.0",
   "description": "Registers an Amazon ECS task definition and deploys it to ECS scheduled task(s).",
   "main": "src/index.js",
